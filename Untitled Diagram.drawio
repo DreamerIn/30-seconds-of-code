@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dQaM9TAmy3td7B9WNORy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dQaM9TAmy3td7B9WNORy-1" target="dQaM9TAmy3td7B9WNORy-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dQaM9TAmy3td7B9WNORy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dQaM9TAmy3td7B9WNORy-1" target="dQaM9TAmy3td7B9WNORy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -18,6 +15,9 @@
         </mxCell>
         <mxCell id="dQaM9TAmy3td7B9WNORy-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQaM9TAmy3td7B9WNORy-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dQaM9TAmy3td7B9WNORy-3" target="dQaM9TAmy3td7B9WNORy-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dQaM9TAmy3td7B9WNORy-3" value="Armor DB" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="60" height="60" as="geometry" />
